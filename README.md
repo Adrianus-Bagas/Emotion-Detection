@@ -1,1 +1,3 @@
 # Emotion-Detection
+
+Emosi adalah reaksi terhadap suatu kejadian. Emosi yang ditunjukkan bisa berbeda-beda. Bila kita meraih nilai bagus, emosi kita menjadi senang. Bila kita mendapat perlakuan tidak baik dari orang lain, emosi kita bisa menjadi sedih maupun marah. Bila kita merasa terancam, emosi kita menjadi takut. Proyek ini membahas mengenai deteksi emosi yang disebutkan sebelumnya yaitu senang, sedih, marah, dan takut menggunakan metode Convolutional Neural Network (CNN) dan Recurrent Convolutional Neural Network (RCNN). Metode yang lebih baik akan diterapkan pada User Interface. Dataset yang digunakan dapat diakses pada https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess.
